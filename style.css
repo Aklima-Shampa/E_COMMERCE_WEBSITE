@@ -1,0 +1,73 @@
+h1, h5{
+    font-family: 'Poppins', sans-serif;
+    color: #363958;
+}
+.another-color{
+    color: #76C27E;
+}
+.full-width{
+    background-color: #FFFFF4;
+}
+.left-sight img{
+    width: 290px;
+    height: 40px;
+}
+.right-sight{
+    display: flex;
+    justify-content: flex-end;
+}
+.right-sight li{
+    padding: 15px;
+}
+.down-header{
+    margin-top: 80px;
+}
+.header-pic img{
+    width: 434px;
+    height: 434px;
+}
+.header-text{
+    color: #363958;
+    text-transform: uppercase;
+}
+.header-text span{
+    color: #76C27E;
+}
+.header-text h1{
+    font-size: 60px;
+}
+button{
+    border: 0;
+    background-color: #2A1E59;
+    color: white;
+    border-radius: 5px;
+}
+.btn-size{
+    margin-right: 8px;
+}
+.shopping-section{
+    margin-top: 80px;
+}
+.Detail-section{
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+}
+.Detail-section img{
+    width: 100%;
+    height: 100px;
+}
+.picshopping img{
+    width: 100%;
+    height: 450px;
+}
+.Detail-section h5{
+    color: #363958;
+}
+.product-section{
+    margin-top: 90px;
+}
+.Travel-back{
+    margin-top: 90px;
+    padding-bottom: 80px;
+}
